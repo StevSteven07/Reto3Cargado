@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.reto3f.Reto3FApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 72.505 s - in com.example.reto3f.Reto3FApplicationTests
